@@ -1,2 +1,2 @@
 # Analog-Synthesizer-Project
-This repository contains all the work I've done to design my own analog synthesizer.
+This repository contains all the work I've done to design my own analog synthesizer. The ultimate goal of this project is to design the analog circuits for a VCO (voltage controlled oscilator), VCA (voltage controlled amplifier) and VCF (voltage controlled filter). The design process for each of these components will be detailed here. The basic design flow will be testing and simulating in LTSpice, breadboarding the design, then creating a PCB. Along with this I will be machining cases each of these components and designing a power supply unit for them.
